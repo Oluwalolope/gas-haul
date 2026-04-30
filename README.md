@@ -27,7 +27,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. Clone the repository (if you haven't already):
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/Oluwalolope/gas-haul.git
    ```
 
 2. Navigate into the project directory:
