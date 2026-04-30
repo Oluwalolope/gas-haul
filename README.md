@@ -2,6 +2,8 @@
 
 Gas Haul is a modern web application designed to help users quickly find and order from trusted gas vendors in their area. It features a responsive, sleek user interface and is built with the latest web technologies.
 
+> **Note:** This is a collaborative project developed by **Team 7** of the **Buildership Cohort** for the **Challenge of the Month of April**.
+
 ## 🚀 Features
 
 - **Location-Based Vendor Search:** Easily find gas vendors delivering to your current or saved locations.
