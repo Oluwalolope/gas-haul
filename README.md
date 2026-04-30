@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Gas Haul 🔥
 
-## Getting Started
+Gas Haul is a modern web application designed to help users quickly find and order from trusted gas vendors in their area. It features a responsive, sleek user interface and is built with the latest web technologies.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Location-Based Vendor Search:** Easily find gas vendors delivering to your current or saved locations.
+- **Modern & Responsive UI:** A premium, beautifully designed interface that works seamlessly across mobile, tablet, and desktop screens.
+- **Component-Driven Architecture:** Built with reusability and scalability in mind using React and Next.js.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Icons:** [Lucide React](https://lucide.dev/)
+- **Typography:** Inter (via `next/font`)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📦 Getting Started
 
-## Learn More
+### Prerequisites
 
-To learn more about Next.js, take a look at the following resources:
+Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Installation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Clone the repository (if you haven't already):
+   ```bash
+   git clone <your-repository-url>
+   ```
 
-## Deploy on Vercel
+2. Navigate into the project directory:
+   ```bash
+   cd gas-haul
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
+
+## 📁 Project Structure
+
+- `app/` - Contains the main pages, layout, and Next.js App Router configuration.
+- `components/` - Reusable UI components (e.g., the `Header` component).
+- `public/` - Static assets.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
