@@ -13,7 +13,7 @@ export default function Header() {
         </h1>
 
         <div className="flex items-center gap-2 mt-2">
-          <MapPin className="text-[#F97316] w-[18px] h-[18px] fill-[#F97316]" strokeWidth={1.5} />
+          <MapPin className="text-[#F97316] size-4.5 fill-[#F97316]" strokeWidth={1.5} />
           <p className="text-[#A0A0B0] text-[13px] md:text-sm">
             Delivering to{' '}
             <span className="text-white font-medium">
